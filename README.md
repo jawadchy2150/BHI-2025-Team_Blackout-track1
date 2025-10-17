@@ -6,7 +6,7 @@ The final report can be found here: [**Final_Report.pdf**](IEEE_BHI_2025_Data_Ch
 
 ---
 
-##  methodological Approach
+##  Methodological Approach
 
 The core of our analysis was to build robust predictive models while handling a significant amount of missing data in the target variables. Our final approach involved a multi-stage process:
 
